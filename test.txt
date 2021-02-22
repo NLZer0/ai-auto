@@ -1,0 +1,514 @@
+self.MD_11 = [
+            self.MD_Hyundai_Solaris,
+            self.MD_Volkswagen_Polo,
+            self.MD_Renault_Logan,
+            self.MD_Lada_Granta,
+            self.MD_Kia_Cerato,
+            self.MD_Toyota_Corolla,
+            self.MD_MercedesBenz_CLA,
+            self.MD_Toyota_Camry,
+            self.MD_Hyundai_Sonata,
+            self.MD_Mazda6,
+            self.MD_Volkswagen_Passat,
+            self.MD_BMW_3,
+            self.MD_MercedesBenz_C,
+            self.MD_Audi_A4,
+            self.MD_Genesis_G70,
+            self.MD_BMW_5,
+            self.MD_MercedesBenz_E,
+            self.MD_BMW_6_GT,
+            self.MD_BMW_7,
+            self.MD_MercedesMaybach
+        ]
+        self.MD_12 = [
+            self.MD_Skoda_Octavia,
+            self.MD_Lada_Largus_VP,
+            self.MD_Kia_Ceed,
+            self.MD_Ford_Focus,
+            self.MD_Hyundai_Elantra,
+            self.MD_Audi_A3
+        ]
+        self.MD_13 = [
+            self.MD_Volkswagen_Multivan,
+            self.MD_Hyundai_H1,
+            self.MD_MercedesBenz_V,
+        ]
+        self.MDN_11[
+            self.MDN_Lada_Largus_VP,
+            self.MDN_Kia_Ceed,
+            self.MDN_Ford_Focus,
+            self.MDN_Hyundai_Elantra,
+            self.MDN_Audi_A3,
+            self.MDN_Volkswagen_Multivan,
+            self.MDN_Hyundai_H1,
+            self.MDN_MercedesBenz_V,
+            self.MDN_Skoda_Octavia,
+        ]
+        self.MDN_12[
+            self.MDN_Hyundai_Solaris,
+            self.MDN_Volkswagen_Polo,
+            self.MDN_Renault_Logan,
+            self.MDN_Lada_Granta,
+            self.MDN_Kia_Cerato,
+            self.MDN_Toyota_Corolla,
+            self.MDN_MercedesBenz_CLA,
+            self.MDN_Toyota_Camry,
+            self.MDN_Hyundai_Sonata,
+            self.MDN_Mazda6,
+            self.MDN_Volkswagen_Passat,
+            self.MDN_BMW_3,
+            self.MDN_MercedesBenz_C,
+            self.MDN_Audi_A4,
+            self.MDN_Genesis_G70,
+            self.MDN_BMW_5,
+            self.MDN_MercedesBenz_E,
+            self.MDN_BMW_7,
+            self.MDN_MercedesMaybach,
+            self.MDN_Volkswagen_Multivan,
+            self.MDN_Hyundai_H1,
+            self.MDN_MercedesBenz_V
+        ]
+        self.MDN_13[
+            self.MDN_Skoda_Octavia,
+            self.MDN_Hyundai_Solaris,
+            self.MDN_Volkswagen_Polo,
+            self.MDN_Renault_Logan,
+            self.MDN_Lada_Granta,
+            self.MDN_Skoda_Octavia,
+            self.MDN_Kia_Cerato,
+            self.MDN_Toyota_Corolla,
+            self.MDN_MercedesBenz_CLA,
+            self.MDN_Toyota_Camry,
+            self.MDN_Hyundai_Sonata,
+            self.MDN_Mazda6,
+            self.MDN_Volkswagen_Passat,
+            self.MDN_BMW_3,
+            self.MDN_MercedesBenz_C,
+            self.MDN_Audi_A4,
+            self.MDN_Genesis_G70,
+            self.MDN_BMW_5,
+            self.MDN_MercedesBenz_E,
+            self.MDN_BMW_7,
+            self.MDN_MercedesMaybach,
+            self.MDN_Lada_Largus_VP,
+            self.MDN_Kia_Ceed,
+            self.MDN_Ford_Focus,
+            self.MDN_Hyundai_Elantra,
+            self.MDN_Audi_A3
+        ]
+        self.MD_21 = [
+            self.MD_Hyundai_Solaris,
+            self.MD_Volkswagen_Polo,
+            self.MD_Lada_Largus_VP,
+            self.MD_Renault_Logan,
+            self.MD_Lada_Granta,
+            self.MD_Hyundai_Elantra,
+            self.MD_Volkswagen_Passat,
+            self.MD_Volkswagen_Multivan
+        ]
+        self.MD_22 = [
+            self.MD_Skoda_Octavia,
+            self.MD_Kia_Ceed,
+            self.MD_Kia_Cerato,
+            self.MD_Ford_Focus,
+            self.MD_Toyota_Corolla,
+            self.MD_Audi_A3,
+            self.MD_Toyota_Camry,
+            self.MD_Hyundai_Sonata,
+            self.MD_Mazda6,
+            self.MD_BMW_3,
+            self.MD_MercedesBenz_C,
+            self.MD_Audi_A4,
+            self.MD_BMW_5,
+            self.MD_Hyundai_H1,
+        ]
+        self.MD_23 = [
+            self.MD_MercedesBenz_CLA,
+            self.MD_MercedesBenz_A,
+            self.MD_Genesis_G70,
+            self.MD_MercedesBenz_E,
+            self.MD_BMW_6_GT,
+            self.MD_BMW_7,
+            self.MD_MercedesMaybach,
+            self.MD_MercedesBenz_V
+        ]
+        self.MDN_21 = [
+            self.MDN_Skoda_Octavia,
+            self.MDN_Kia_Ceed,
+            self.MDN_Kia_Cerato,
+            self.MDN_Ford_Focus,
+            self.MDN_Toyota_Corolla,
+            self.MDN_Audi_A3,
+            self.MDN_Toyota_Camry,
+            self.MDN_Hyundai_Sonata,
+            self.MDN_Mazda6,
+            self.MDN_BMW_3,
+            self.MDN_MercedesBenz_C,
+            self.MDN_Audi_A4,
+            self.MDN_BMW_5,
+            self.MDN_MercedesBenz_CLA,
+            self.MDN_Hyundai_H1,
+            self.MDN_MercedesBenz_A,
+            self.MDN_Genesis_G70,
+            self.MDN_MercedesBenz_E,
+            self.MDN_BMW_7,
+            self.MDN_MercedesMaybach,
+            self.MDN_MercedesBenz_V
+        ]
+        self.MDN_22 = [
+            self.MDN_Hyundai_Solaris,
+            self.MDN_Volkswagen_Polo,
+            self.MDN_Lada_Largus_VP,
+            self.MDN_Renault_Logan,
+            self.MDN_Lada_Granta,
+            self.MDN_Hyundai_Elantra,
+            self.MDN_Volkswagen_Passat,
+            self.MDN_Volkswagen_Multivan,
+            self.MDN_MercedesBenz_CLA,
+            self.MDN_MercedesBenz_A,
+            self.MDN_Genesis_G70,
+            self.MDN_MercedesBenz_E,
+            self.MDN_BMW_7,
+            self.MDN_MercedesMaybach,
+            self.MDN_MercedesBenz_V
+        ]
+        self.MDN_23 = [
+            self.MDN_Hyundai_Solaris,
+            self.MDN_Volkswagen_Polo,
+            self.MDN_Lada_Largus_VP,
+            self.MDN_Renault_Logan,
+            self.MDN_Lada_Granta,
+            self.MDN_Hyundai_Elantra,
+            self.MDN_Volkswagen_Passat,
+            self.MDN_Volkswagen_Multivan,
+            self.MDN_Skoda_Octavia,
+            self.MDN_Kia_Ceed,
+            self.MDN_Kia_Cerato,
+            self.MDN_Ford_Focus,
+            self.MDN_Toyota_Corolla,
+            self.MDN_Audi_A3,
+            self.MDN_Toyota_Camry,
+            self.MDN_Hyundai_Sonata,
+            self.MDN_Mazda6,
+            self.MDN_BMW_3,
+            self.MDN_MercedesBenz_C,
+            self.MDN_Audi_A4,
+            self.MDN_BMW_5,
+            self.MDN_Hyundai_H1,
+        ]    
+        self.MD_31 = [
+            self.MD_Hyundai_Solaris,
+            self.MD_Volkswagen_Polo,
+            self.MD_Lada_Granta,
+            self.MD_Kia_Cerato,
+            self.MD_Hyundai_Elantra,
+            self.MD_Toyota_Corolla,
+            self.MD_MercedesBenz_CLA,
+            self.MD_Audi_A3,
+            self.MD_MercedesBenz_A,
+            self.MD_Toyota_Camry,
+            self.MD_Hyundai_Sonata,
+            self.MD_Mazda6,
+            self.MD_BMW_3,
+            self.MD_MercedesBenz_C,
+            self.MD_Audi_A4,
+            self.MD_Genesis_G70,
+            self.MD_BMW_5,
+            self.MD_MercedesBenz_E,
+            self.MD_BMW_7,
+            self.MD_MercedesMaybach,
+        ]
+        self.MD_32 = [
+            self.MD_Hyundai_Elantra,
+            self.MD_Toyota_Corolla,
+            self.MD_Mazda6,
+            self.MD_Volkswagen_Passat,
+        ]
+        self.MD_33 = [
+            self.MD_Lada_Largus_VP,
+            self.MD_Renault_Logan,
+            self.MD_Skoda_Octavia,
+            self.MD_Kia_Ceed,
+            self.MD_Hyundai_Elantra,
+            self.MD_Toyota_Corolla,
+            self.MD_Mazda6,
+            self.MD_Volkswagen_Passat,
+            self.MD_Audi_A4,
+            self.MD_BMW_5,
+        ]
+        self.MD_34 = [
+            self.MD_Volkswagen_Multivan,
+            self.MD_Hyundai_H1,
+            self.MD_MercedesBenz_V,
+        ]
+        self.MDN_31 = [
+            self.MDN_Lada_Largus_VP,
+            self.MDN_Skoda_Octavia,
+            self.MDN_Kia_Ceed,
+            self.MDN_Ford_Focus,
+            self.MDN_Volkswagen_Multivan,
+            self.MDN_Hyundai_H1,
+            self.MDN_MercedesBenz_V,
+        ]
+        self.MDN_32 = [
+            self.MDN_Hyundai_Solaris,
+            self.MDN_Volkswagen_Polo ,
+            self.MDN_Lada_Largus_VP ,
+            self.MDN_Renault_Logan ,
+            self.MDN_Lada_Granta ,
+            self.MDN_Skoda_Octavia,
+            self.MDN_Kia_Ceed,
+            self.MDN_Kia_Cerato,
+            self.MDN_Ford_Focus,
+            self.MDN_MercedesBenz_CLA,
+            self.MDN_Audi_A3_седан,
+            self.MDN_MercedesBenz_A,
+            self.MDN_Toyota_Camry,
+            self.MDN_Hyundai_Sonata,
+            self.MDN_BMW_3,
+            self.MDN_MercedesBenz_C,
+            self.MDN_Audi_A4,
+            self.MDN_Genesis_G70,
+            self.MDN_BMW_5,
+            self.MDN_MercedesBenz_E,
+            self.MDN_BMW_7,
+            self.MDN_MercedesMaybach,
+            self.MDN_Volkswagen_Multivan,
+            self.MDN_Hyundai_H1,
+            self.MDN_MercedesBenz_V,
+        ]
+        self.MDN_33 = [
+            self.MDN_Hyundai_Solaris,
+            self.MDN_Volkswagen_Polo ,
+            self.MDN_Lada_Granta ,
+            self.MDN_Kia_Cerato,
+            self.MDN_Ford_Focus,
+            self.MDN_MercedesBenz_CLA,
+            self.MDN_Audi_A3_седан,
+            self.MDN_MercedesBenz_A,
+            self.MDN_Toyota_Camry,
+            self.MDN_Hyundai_Sonata,
+            self.MDN_BMW_3,
+            self.MDN_MercedesBenz_C,
+            self.MDN_Genesis_G70,
+            self.MDN_MercedesBenz_E,
+            self.MDN_BMW_7,
+            self.MDN_MercedesMaybach,
+            self.MDN_Volkswagen_Multivan,
+            self.MDN_Hyundai_H1,
+            self.MDN_MercedesBenz_V,
+        ]
+        self.MDN_34 = [
+            self.MDN_Hyundai_Solaris,
+            self.MDN_Volkswagen_Polo ,
+            self.MDN_Lada_Largus_VP ,
+            self.MDN_Renault_Logan ,
+            self.MDN_Lada_Granta ,
+            self.MDN_Skoda_Octavia,
+            self.MDN_Kia_Ceed,
+            self.MDN_Kia_Cerato,
+            self.MDN_Ford_Focus,
+            self.MDN_Hyundai_Elantra,
+            self.MDN_Toyota_Corolla,
+            self.MDN_MercedesBenz_CLA,
+            self.MDN_Audi_A3_седан,
+            self.MDN_MercedesBenz_A,
+            self.MDN_Toyota_Camry,
+            self.MDN_Hyundai_Sonata,
+            self.MDN_Mazda6,
+            self.MDN_Volkswagen_Passat,
+            self.MDN_BMW_3,
+            self.MDN_MercedesBenz_C,
+            self.MDN_Audi_A4,
+            self.MDN_Genesis_G70,
+            self.MDN_BMW_5,
+            self.MDN_MercedesBenz_E,
+            self.MDN_BMW_7,
+            self.MDN_MercedesMaybach,
+        ]
+        self.MD_41 = [
+            self.MD_Lada_Largus_VP ,
+            self.MD_Lada_Granta,
+        ]
+        self.MD_42 = [
+            self.MD_Hyundai_Solaris,
+            self.MD_Volkswagen_Polo ,
+            self.MD_Renault_Logan ,
+            self.MD_Skoda_Octavia,
+            self.MD_Kia_Ceed,
+            self.MD_Kia_Cerato,
+            self.MD_Ford_Focus,
+            self.MD_Hyundai_Elantra,
+            self.MD_Toyota_Corolla,
+            self.MD_MercedesBenz_CLA,
+            self.MD_Audi_A3_седан,
+            self.MD_MercedesBenz_A,
+            self.MD_Toyota_Camry,
+            self.MD_Hyundai_Sonata,
+            self.MD_Mazda6,
+            self.MD_Volkswagen_Passat,
+            self.MD_BMW_3,
+            self.MD_MercedesBenz_C,
+            self.MD_Audi_A4,
+            self.MD_Genesis_G70,
+            self.MD_BMW_5,
+            self.MD_MercedesBenz_E,
+            self.MD_BMW_7,
+            self.MD_MercedesMaybach,
+            self.MD_Volkswagen_Multivan,
+            self.MD_Hyundai_H1,
+            self.MD_MercedesBenz_V,
+        ]
+        self.MDN_41 = [
+            self.MDN_Hyundai_Solaris,
+            self.MDN_Volkswagen_Polo ,
+            self.MDN_Renault_Logan ,
+            self.MDN_Skoda_Octavia,
+            self.MDN_Kia_Ceed,
+            self.MDN_Kia_Cerato,
+            self.MDN_Ford_Focus,
+            self.MDN_Hyundai_Elantra,
+            self.MDN_Toyota_Corolla,
+            self.MDN_MercedesBenz_CLA,
+            self.MDN_Audi_A3_седан,
+            self.MDN_MercedesBenz_A,
+            self.MDN_Toyota_Camry,
+            self.MDN_Hyundai_Sonata,
+            self.MDN_Mazda6,
+            self.MDN_Volkswagen_Passat,
+            self.MDN_BMW_3,
+            self.MDN_MercedesBenz_C,
+            self.MDN_Audi_A4,
+            self.MDN_Genesis_G70,
+            self.MDN_BMW_5,
+            self.MDN_MercedesBenz_E,
+            self.MDN_BMW_7,
+            self.MDN_MercedesMaybach,
+            self.MDN_Volkswagen_Multivan,
+            self.MDN_Hyundai_H1,
+            self.MDN_MercedesBenz_V,
+        ]
+        self.MDN_42 = [
+            self.MDN_Lada_Largus_VP ,
+            self.MDN_Lada_Granta,
+        ]
+        
+        @Rule(
+        Fact(answ="1-1"))
+        def _11(self):
+            for it in self.MD_11:
+                it = it + 0.2(1-it)
+            for it in self.MDN_12:
+                it = it + 0.2(1-it)
+            for it in self.MDN_13:
+                it = it + 0.2(1-it)
+        @Rule(
+        Fact(answ="1-2"))
+        def _12(self):
+            for it in self.MDN_11:
+                it = it + 0.2(1-it)
+            for it in self.MD_12:
+                it = it + 0.2(1-it)
+            for it in self.MDN_13:
+                it = it + 0.2(1-it)
+        @Rule(
+        Fact(answ="1-3"))
+        def _13(self):
+            for it in self.MDN_11:
+                it = it + 0.2(1-it)
+            for it in self.MDN_12:
+                it = it + 0.2(1-it)
+            for it in self.MD_13:
+                it = it + 0.2(1-it)
+
+
+        @Rule(
+        Fact(answ="2-1"))
+        def _21(self):
+            for it in MD_21:
+                it = it + 0.5(1-it)
+            for it in MDN_22:
+                it = it + 0.5(1-it)
+            for it in MDN_23:
+                it = it + 0.5(1-it)
+        @Rule(
+        Fact(answ="2-2"))
+        def _22(self):
+            for it in self.MDN_21:
+                it = it + 0.5(1-it)
+            for it in self.MD_22:
+                it = it + 0.5(1-it)
+            for it in self.MDN_23:
+                it = it + 0.5(1-it)       
+        @Rule(
+        Fact(answ="2-3"))
+        def _23(self):
+            for it in self.MDN_21:
+                it = it + 0.5(1-it)
+            for it in self.MDN_22:
+                it = it + 0.5(1-it)
+            for it in self.MD_23:
+                it = it + 0.5(1-it)   
+        
+
+
+        @Rule(
+        Fact(answ="3-1"))
+        def _31(self):
+            for it in self.MD_31:
+                it = it + 0.5(1-it)
+            for it in self.MDN_32:
+                it = it + 0.5(1-it)
+            for it in self.MDN_33:
+                it = it + 0.5(1-it)
+            for it in self.MDN_34:
+                it = it + 0.5(1-it)  
+        @Rule(
+        Fact(answ="3-2"))
+        def _32(self):
+            for it in self.MDN_31:
+                it = it + 0.5(1-it)
+            for it in self.MD_32:
+                it = it + 0.5(1-it)
+            for it in self.MDN_33:
+                it = it + 0.5(1-it)
+            for it in self.MDN_34:
+                it = it + 0.5(1-it)  
+        @Rule(
+        Fact(answ="3-3"))
+        def _33(self):
+            for it in self.MDN_31:
+                it = it + 0.5(1-it)
+            for it in self.MDN_32:
+                it = it + 0.5(1-it)
+            for it in self.MD_33:
+                it = it + 0.5(1-it)
+            for it in self.MDN_34:
+                it = it + 0.5(1-it)  
+        @Rule(
+        Fact(answ="3-4"))
+        def _34(self):
+            for it in self.MDN_31:
+                it = it + 0.5(1-it)
+            for it in self.MDN_32:
+                it = it + 0.5(1-it)
+            for it in self.MDN_33:
+                it = it + 0.5(1-it)
+            for it in self.MD_34:
+                it = it + 0.5(1-it)  
+         
+
+        @Rule(
+        Fact(answ="4-1"))
+        def _41(self):
+            for it in self.MD_41:
+                it = it + 0.2(1-it)
+            for it in self.MDN_42:
+                it = it + 0.2(1-it)
+        @Rule(
+        Fact(answ="4-2"))
+        def _42(self):
+            for it in self.MDN_41:
+                it = it + 0.2(1-it)
+            for it in self.MD_42:
+                it = it + 0.2(1-it)
